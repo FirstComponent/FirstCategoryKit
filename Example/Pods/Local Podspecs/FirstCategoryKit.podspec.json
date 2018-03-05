@@ -1,0 +1,22 @@
+{
+  "name": "FirstCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of FirstCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/swifter-king/FirstCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "swifter-king": "18868661576@163.com"
+  },
+  "source": {
+    "git": "https://github.com/swifter-king/FirstCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FirstCategoryKit/Classes/**/*"
+}
