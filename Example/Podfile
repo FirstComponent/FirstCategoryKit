@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FirstCategoryKit_Example' do
+  pod 'FirstCategoryKit', :path => '../'
+
+  target 'FirstCategoryKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
